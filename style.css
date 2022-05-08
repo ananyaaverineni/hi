@@ -1,0 +1,12 @@
+.heading{
+    font-size:40px;}
+    body{
+        background-size: cover;}
+        #start,#status,#number_of_objects{font-size: 20px;}
+
+canvas{
+    border:5px solid white;
+    margin-top:130px;
+    border-radius:10px;
+    box-shadow: 5px 5px 50px yellow;
+}        
